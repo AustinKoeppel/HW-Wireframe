@@ -45,6 +45,11 @@ p{
     margin: 10px 10px;
     padding: 10px 0px;
 }
+.long{
+    margin: 22px;
+    width: 100%;
+    position: absolute;
+}
 footer{
     margin-top: 20px;
     clear: both;
@@ -52,4 +57,10 @@ footer{
 #aside{
     position: absolute;
     margin: 18% 45%;
+}
+.short{
+    margin-top: 5px; 
+}
+#art{
+    padding-top: 5px;
 }
